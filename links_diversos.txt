@@ -1,0 +1,25 @@
+
+Link do meu portfolio
+https://thaismfernandes.github.io/portfolio/#welcome
+
+Link de temas para portfolio
+https://pages-themes.github.io/slate/
+https://pages-themes.github.io/cayman/
+https://github.com/thaismfernandes/simplefolio
+https://github.com/cobiwave/simplefolio
+https://github.com/sernadesigns/simplefolio-ember
+https://sernadesigns.github.io/simplefolio-ember/
+https://the-simplefolio.netlify.app/#about
+
+Link da Rebeca Nonato
+https://www.rebecanonato89.dev/#projects
+
+Curso de LangChain com Python
+https://www.udemy.com/course/langchain-with-python-bootcamp/?utm_source=adwords&utm_medium=udemyads&utm_campaign=LongTail_la.EN_cc.BR&campaigntype=Search&portfolio=Brazil&language=EN&product=Course&test=&audience=DSA&topic=&priority=&utm_content=deal4584&utm_term=_._ag_112130202440_._ad_658067503365_._kw__._de_c_._dm__._pl__._ti_aud-2297301418005%3Adsa-1007766171312_._li_1001773_._pd__._&matchtype=&gad_source=1&gclid=CjwKCAjwr7ayBhAPEiwA6EIGxGkTObvigHgUownJHOay6VV2mUx5PHJG4WuLUkaLBHKbp1m3VZt8FhoC_dUQAvD_BwE&couponCode=2021PM25
+
+Langchain
+https://www.langchain.com/
+https://github.com/langchain-ai/langchain
+
+Vídeo de LLM com Langchain
+https://www.youtube.com/watch?v=lAvMVxIBPEA

@@ -1,0 +1,11 @@
+
+Links de Openai+Python
+https://blog.formacao.dev/como-usar-a-api-da-openai-com-python/
+https://platform.openai.com/docs/libraries/community-libraries
+https://platform.openai.com/docs/api-reference/streaming
+https://github.com/openai/openai-python
+https://github.com/openai/openai-python/blob/main/api.md
+
+
+Usage Open AI
+https://platform.openai.com/usage
