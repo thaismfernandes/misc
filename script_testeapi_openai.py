@@ -1,3 +1,6 @@
+#Script de python para testar API do Open AI
+#Python script to test OPEN AI API
+
 import os
 from openai import OpenAI
 
