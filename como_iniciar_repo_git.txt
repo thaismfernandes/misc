@@ -47,3 +47,9 @@ git pull origin main --allow-unrelated-histories
 git add <arquivos resolvidos>
 git commit -m "Mesclando alterações remotas"
 git push origin main
+
+
+Caso eu delete os arquivos da máquina e queira baixar do repositório
+git clone https://github.com/thaismfernandes/misc.git
+Ou, se já estiver em um repositório existente e precisar atualizar os arquivos:
+git pull origin main
