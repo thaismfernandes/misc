@@ -1,4 +1,4 @@
-Entendi! Vamos configurar o seu repositório local para se conectar ao repositório remoto no GitHub. Aqui estão os passos completos para isso:
+Vamos configurar o seu repositório local para se conectar ao repositório remoto no GitHub. Aqui estão os passos completos para isso:
 
 1. **Navegue até o diretório do seu projeto local**:
    cd _devtmf
