@@ -1,5 +1,5 @@
 
-Link do meu portfolio
+Link do meu portfolio no git
 https://thaismfernandes.github.io/portfolio/#welcome
 
 Link de temas para portfolio
