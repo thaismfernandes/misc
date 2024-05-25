@@ -36,4 +36,14 @@ Vamos explicar cada etapa:
 - `git commit -m "mensagem"`: Cria um commit com as mudanças adicionadas.
 - `git push -u origin main`: Envia as mudanças para o repositório remoto na branch "main".
 
+
 Seguindo esses passos, seu repositório local estará conectado ao repositório no GitHub, e você poderá subir seus arquivos. Se houver algum erro durante o processo, me avise para que eu possa te ajudar a resolver!
+
+
+Caso aconteça algum problema de divergência
+
+git pull origin main --allow-unrelated-histories
+# Resolva quaisquer conflitos se necessário e então adicione os arquivos resolvidos
+git add <arquivos resolvidos>
+git commit -m "Mesclando alterações remotas"
+git push origin main
