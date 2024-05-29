@@ -9,3 +9,6 @@ https://github.com/openai/openai-python/blob/main/api.md
 
 Usage Open AI
 https://platform.openai.com/usage
+
+https://github.com/fernandofeltrin/PYTHON
+https://automatetheboringstuff.com/
