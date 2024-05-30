@@ -23,7 +23,6 @@ Criar diretório e ambiente virtual
 Quando o ambiente virtual estiver ativado, você verá o nome do ambiente entre parênteses no início da linha de comando. Isso indica que todos os pacotes que você instalar usando o `pip` serão instalados apenas nesse ambiente virtual, evitando conflitos com outras instalações de Python no sistema.
 
 4. **Deletar diretório:**
-   Primeiro, crie o diretório onde você deseja armazenar seu projeto:
    ```bash
    rm -rf file
    ```
